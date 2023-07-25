@@ -1,6 +1,6 @@
 
 
-# Path Planning
+# Path Planning Methods
 
 ## Dijkstra
 Dijkstra's Algorithm finds the shortest path between a given node (which is called the "source node") and all other nodes in a graph. 
