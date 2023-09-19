@@ -9,7 +9,7 @@
 #include<opencv2/highgui/highgui.hpp>
 
 using namespace std;
-
+vector<int> holder;
 
 class Node{
 public:
